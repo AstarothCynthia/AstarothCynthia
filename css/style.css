@@ -5,7 +5,10 @@
     margin: 20px 20px;
 }
 .contenido section{
-    margin-top: 20px;
+    margin-top: 40px;
+    font-family: sans-serif;
+    font-size: 12px;
+    color: blueviolet;
 }
 .carousel-item{
     background-color: black;
